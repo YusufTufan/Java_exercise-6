@@ -1,0 +1,1 @@
+Vücut-Kitle endeksi hesaplama
