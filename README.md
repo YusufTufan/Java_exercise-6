@@ -1,1 +1,1 @@
-Vücut-Kitle endeksi hesaplama
+Vücut-Kitle endeksi hesaplayan algoritma
